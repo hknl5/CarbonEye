@@ -1,5 +1,5 @@
 # CarbonEye
-carbon eye is smart carbon monitoring, forecasting, and recommendation system
+Our project focuses on utilizing machine learning to monitor and  atmospheric carbon levels. By analyzing the data and the system predicts carbon concentrations and offers actionable recommendations for optimizing carbon reduction efforts. Additionally, predictive models will be developed to forecast future carbon levels, supporting informed decision-making and sustainable environmental practices.
 # data
 Sulphur Dioxide - [COPERNICUS/S5P/NRTI/L3_SO2](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_SO2?hl=en) \
 Carbon Monoxide - [COPERNICUS/S5P/NRTI/L3_CO](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_CO?hl=en)\
