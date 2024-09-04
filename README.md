@@ -7,4 +7,5 @@ Nitrogen Dioxide - [COPERNICUS/S5P/NRTI/L3_NO2](https://developers.google.com/ea
 Formaldehyde - [COPERNICUS/S5P/NRTI/L3_HCHO](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_HCHO?hl=en)\
 UV Aerosol Index - [COPERNICUS/S5P/NRTI/L3_AER_AI](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_AER_AI?hl=en)\
 Ozone - [COPERNICUS/S5P/NRTI/L3_O3](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_O3?hl=en)\
-Cloud - [COPERNICUS/S5P/OFFL/L3_CLOUD](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_CLOUD?hl=en)
+Cloud - [COPERNICUS/S5P/OFFL/L3_CLOUD](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_CLOUD?hl=en)\
+#[model in colab](https://colab.research.google.com/drive/1MT1fk05Xcwc4Gb-NpDdqHqYboMAlnhfQ?usp=sharing#scrollTo=U8GCi9kYmVQb)
